@@ -1,2 +1,9 @@
-# julia-breve-intro
-Uma breve introdução à linguagem de programação Julia
+# Julia – Uma Breve Introdução
+
+Uma breve introdução à linguagem de programação Julia:
+
+1. [Notebook jupyter](01.notebook_jupyter.ipynb)
+2. [Conhecendo a Julia](02.conhecendo_a_julia.ipynb)
+3. [Álgebra linear](03.algebra_linear.ipynb)
+4. [Pacotes de software](04.pacotes_de_software.ipynb)
+5. [Criando gráficos](05.criando_graficos.ipynb)
