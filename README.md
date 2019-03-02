@@ -7,3 +7,10 @@ Uma breve introdução à linguagem de programação Julia:
 3. [Álgebra linear](03.algebra_linear.ipynb)
 4. [Pacotes de software](04.pacotes_de_software.ipynb)
 5. [Criando gráficos](05.criando_graficos.ipynb)
+
+## Licença
+
+Copyright (C) 2019 Gustavo de Oliveira.
+Este material está publicado com a Licença GPL-3.0 (veja o arquivo [LICENSE][1]).
+
+[1]: LICENSE
