@@ -18,7 +18,7 @@ Os notebooks acima são baseados nos tutoriais disponíveis em [JuliaBox][3].
 
 ## Experimentando a linguagem
 
-Para experimentar a linguagem Julia, sugerimos criar uma conta gratuíta no [JuliaBox][3] ou no [Cocalc][4] e abrir um notebook com o kernel da Julia.
+Para experimentar a Julia, sugerimos criar uma conta no [JuliaBox][3] ou no [Cocalc][4] e abrir um notebook com o kernel da Julia.
 
 ## Licença
 
