@@ -1,6 +1,6 @@
 # Julia – Uma Breve Introdução
 
-Uma rápida introdução à linguagem de programação [Julia][2]:
+Uma rápida introdução à linguagem de programação [Julia][1]:
 
 1. [Notebook jupyter](01.notebook_jupyter.ipynb)
 2. [Conhecendo a Julia](02.conhecendo_a_julia.ipynb)
@@ -10,13 +10,13 @@ Uma rápida introdução à linguagem de programação [Julia][2]:
 6. [A Julia é rápida](06.a_julia_é_rápida.ipynb)
 7. [Despacho múltiplo](07.despacho_múltiplo.ipynb)
 
-Os notebooks acima são baseados nos tutoriais disponíveis em [JuliaBox][3].
+Os notebooks acima são baseados nos tutoriais disponíveis em [JuliaBox][2].
 
 ## Licença
 
 Copyright (C) 2019 Gustavo de Oliveira.
-Este material está publicado com a Licença GPL-3.0 (veja o arquivo [LICENSE][1]).
+Este material está publicado com a Licença GPL-3.0 (veja o arquivo [LICENSE][3]).
 
-[3]: https://julialang.org
+[1]: https://julialang.org
 [2]: https://juliabox.com
-[1]: LICENSE
+[3]: LICENSE
