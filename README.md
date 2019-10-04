@@ -9,8 +9,8 @@ Neste repositório você encontra uma breve introdução à linguagem de program
 3. [Álgebra linear](03.algebra_linear.ipynb)
 4. [Pacotes de software](04.pacotes_de_software.ipynb)
 5. [Criando gráficos](05.criando_graficos.ipynb)
-6. [A Julia é rápida](06.a_julia_é_rápida.ipynb)
-7. [Despacho múltiplo](07.despacho_múltiplo.ipynb)
+6. [A Julia é rápida](06.a_julia_e_rapida.ipynb)
+7. [Despacho múltiplo](07.despacho_multiplo.ipynb)
 
 Alternativamente, o conteúdo pode ser visualizado usando o [nbviewer][2].
 
