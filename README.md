@@ -4,17 +4,17 @@ Neste repositório você encontra uma breve introdução à linguagem de program
 
 ## Conteúdo
 
-1. [Notebook jupyter](01.notebook_jupyter.ipynb)
-2. [Conhecendo a Julia](02.conhecendo_a_julia.ipynb)
-3. [Álgebra linear](03.algebra_linear.ipynb)
-4. [Pacotes de software](04.pacotes_de_software.ipynb)
-5. [Criando gráficos](05.criando_graficos.ipynb)
-6. [A Julia é rápida](06.a_julia_e_rapida.ipynb)
-7. [Despacho múltiplo](07.despacho_multiplo.ipynb)
+1. [Notebook jupyter](https://nbviewer.jupyter.org/github/goliveira/julia-breve-intro/blob/master/01.notebook_jupyter.ipynb)
+2. [Conhecendo a Julia](https://nbviewer.jupyter.org/github/goliveira/julia-breve-intro/blob/master/02.conhecendo_a_julia.ipynb)
+3. [Álgebra linear](https://nbviewer.jupyter.org/github/goliveira/julia-breve-intro/blob/master/03.algebra_linear.ipynb)
+4. [Pacotes de software](https://nbviewer.jupyter.org/github/goliveira/julia-breve-intro/blob/master/04.pacotes_de_software.ipynb)
+5. [Criando gráficos](https://nbviewer.jupyter.org/github/goliveira/julia-breve-intro/blob/master/05.criando_graficos.ipynb)
+6. [A Julia é rápida](https://nbviewer.jupyter.org/github/goliveira/julia-breve-intro/blob/master/06.a_julia_e_rapida.ipynb)
+7. [Despacho múltiplo](https://nbviewer.jupyter.org/github/goliveira/julia-breve-intro/blob/master/07.despacho_multiplo.ipynb)
 
-Alternativamente, o conteúdo pode ser visualizado usando o [nbviewer][2].
+Nos links acima, usamos o [nbviewer][2] para visualizar os notebooks.
 
-Os notebooks acima são baseados em tutoriais disponíveis em [JuliaBoxTutorials][3].
+Os notebooks são baseados em tutoriais disponíveis em [JuliaBoxTutorials][3].
 
 ## Experimentando a linguagem
 
