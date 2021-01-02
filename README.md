@@ -1,6 +1,6 @@
 # Julia – Uma Breve Introdução
 
-Neste repositório você encontra uma breve introdução à linguagem de programação [Julia][1].
+Nesta página você encontra uma breve introdução à linguagem de programação [Julia][1].
 
 ## Conteúdo
 
