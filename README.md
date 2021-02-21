@@ -1,6 +1,6 @@
 # Julia – Uma Breve Introdução
 
-Nesta página você encontra uma breve introdução à linguagem de programação [Julia][1].
+Neste repositório você encontra uma breve introdução à linguagem de programação [Julia][1].
 
 ## Conteúdo
 
@@ -22,11 +22,11 @@ Para experimentar a Julia, sugerimos criar uma conta no [Cocalc][4] e abrir um n
 
 ## Licença
 
-Copyright (C) 2020 Gustavo de Oliveira.
-Publicado com a Licença GPL-3.0 (veja o arquivo [LICENSE][5]).
+Copyright (C) 2021 Gustavo de Oliveira.
+Publicado com a Licença GPL-3.0 ([LICENSE][5]).
 
 [1]: https://julialang.org
 [2]: https://nbviewer.jupyter.org/github/goliveira/julia-breve-intro/tree/master/
 [3]: https://github.com/JuliaComputing/JuliaBoxTutorials
 [4]: https://cocalc.com
-[5]: LICENSE
+[5]: LICENSE.txt
