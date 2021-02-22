@@ -23,7 +23,7 @@ Para experimentar a Julia, sugerimos criar uma conta no [Cocalc][4] e abrir um n
 ## Licença
 
 Copyright (C) 2021 Gustavo de Oliveira.
-Publicado com a Licença GPL-3.0 ([License][5]).
+Publicado com a Licença [GPL][5].
 
 [1]: https://julialang.org
 [2]: https://nbviewer.jupyter.org/github/goliveira/julia-breve-intro/tree/master/
