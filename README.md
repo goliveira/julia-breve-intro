@@ -1,6 +1,7 @@
 # Julia – Uma Breve Introdução
 
-Neste repositório você encontra uma breve introdução à linguagem de programação [Julia][1].
+Neste repositório você encontra uma breve introdução à linguagem de programação
+[Julia][1].
 
 ## Conteúdo
 
@@ -18,15 +19,15 @@ Os notebooks são baseados em tutoriais disponíveis em [JuliaBoxTutorials][3].
 
 ## Experimentando a linguagem
 
-Para experimentar a Julia, sugerimos criar uma conta no [Cocalc][4] e abrir um notebook com o kernel da Julia.
+Para experimentar a Julia, sugerimos criar uma conta no [Cocalc][4] e abrir um
+notebook com o kernel da Julia.
 
 ## Licença
 
-Copyright (C) 2021 Gustavo de Oliveira.
-Publicado com a Licença [GPL][5].
+Copyright (C) 2021 Gustavo de Oliveira. Publicado com a Licença [GNU GPL][5].
 
 [1]: https://julialang.org
 [2]: https://nbviewer.jupyter.org/github/goliveira/julia-breve-intro/tree/master/
 [3]: https://github.com/JuliaComputing/JuliaBoxTutorials
 [4]: https://cocalc.com
-[5]: LICENSE.txt
+[5]: LICENSE
