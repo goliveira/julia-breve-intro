@@ -18,11 +18,11 @@ Os notebooks são baseados em tutoriais disponíveis em [JuliaBoxTutorials][3].
 
 ## Experimentando a linguagem
 
-Para experimentar a Julia, sugerimos criar uma conta no [Cocalc][4] e abrir um notebook com o kernel da Julia.
+Você pode criar uma conta no [Cocalc][4] e abrir um notebook com o kernel da Julia.
 
 ## Licença
 
-Copyright (C) 2021 Gustavo de Oliveira. Publicado com a Licença [GNU GPL][5].
+Copyright (C) 2021 Gustavo de Oliveira. Publicado com a Licença [GNU GPLv3][5].
 
 [1]: https://julialang.org
 [2]: https://nbviewer.jupyter.org/github/goliveira/julia-breve-intro/tree/master/
